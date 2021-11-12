@@ -1,0 +1,26 @@
+{
+  "name": "cms-mern",
+  "version": "1.0.0",
+  "description": "CMS for blog site made using MERN",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "starty": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virajrg108/cms-mern.git"
+  },
+  "author": "virajrg108",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virajrg108/cms-mern/issues"
+  },
+  "homepage": "https://github.com/virajrg108/cms-mern#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
